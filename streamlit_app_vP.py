@@ -6,7 +6,7 @@ import json
 import pandas as pd
 import random
 from datetime import datetime, date
-from streamlit_autorefresh import st_autorefresh
+#from streamlit_autorefresh import st_autorefresh
 import warnings
 
 # Ignore warnings
