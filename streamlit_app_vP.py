@@ -330,7 +330,7 @@ def main():
             else:
                 # Messages sent by the other user
                 st.markdown(f"""
-                    <div style='text-align: left; background-color: #5BC436; padding: 10px; 
+                    <div style='text-align: left; background-color: #4EA72E; padding: 10px; 
                                 border-radius: 10px; margin: 5px; display: inline-block; max-width: 100%;'>
                         <p style='font-size: 18px; margin: 0;'>{sender} : {content}</p>
                     </div>
