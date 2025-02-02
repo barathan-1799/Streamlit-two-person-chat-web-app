@@ -192,7 +192,7 @@ def main():
         st.session_state.editing_message_id = None
     
     # Set up Streamlit page configuration
-    st.set_page_config(page_title="💬 LoveLens", page_icon="💬", layout="wide")
+    st.set_page_config(page_title="💬 Whysapp", page_icon="💬", layout="wide")
     
     # Auto-refresh setup: Refresh every 2 seconds, limit to 100 refreshes
     #st_autorefresh(interval=2000, limit=100, key="fizzbuzzcounter")
